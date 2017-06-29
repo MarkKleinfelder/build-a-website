@@ -1,0 +1,130 @@
+body {
+
+	max-width:900px;
+	background-color: #d8d8d8;
+	font-family:'Play', sans-serif;
+	font-weight: 700;
+	margin: auto;
+
+}
+
+nav {
+	background-color: #bfe7ff;
+	height: 50px;
+	opacity: 10;
+	position: fixed;
+	width: 900px;
+	padding-bottom: 10px;
+	color:black;
+}
+
+a {
+	text-decoration: none;
+	color:black;
+}
+
+a:hover {
+	color: #4ec4d8;
+}
+
+li {
+	font-family:'Archivo Black', sans-serif;
+	display:inline;
+	font-size: 25px;
+	margin: 0px 25px 0px 0px;
+	padding: 0px;
+}
+
+p {
+	padding: 15px;
+}
+
+hr {
+	clear:both;
+	width: 50px;
+}
+
+i {
+	margin-right:10px;
+	margin-left: 10px;
+}
+
+i:hover {
+	cursor:default;
+	transform:rotate(360deg);
+	transition: all 1s ease-in-out 0s;
+}
+
+footer {
+	font-size: 15px;
+	background-color: #bfe7ff;
+	height: 50px;
+	opacity: .8;
+	text-align: center;
+	margin-top: -25px;
+}
+
+#mid {
+	display: inline-block;
+	text-align: center;
+	margin: 0 auto;
+}
+
+#relaxr {
+	margin-bottom: 25px;
+	box-shadow: 2px 2px 5px grey;
+}
+
+#citipix {
+	box-shadow: 2px 2px 5px grey;
+}
+
+#match{
+	box-shadow: 2px 2px 5px grey;
+	margin-bottom: 25px;
+}
+
+#robot {
+	float:left;
+	width: 18%;
+	margin-right: 35px;
+}
+
+#top {
+	margin-top:50px;
+	float:left;
+}
+
+#pad {
+	padding-left: 20px;
+	padding-right:20px;
+	padding-bottom: 20px;
+	background-color: #e8e8e8;
+}
+
+.toptext {
+	margin-top: 50px;
+}
+
+.bottom {
+	text-align: center;
+	margin-top:45px;
+}
+
+
+
+
+ /*-----------vvv about page vvv-----------------------*/
+
+
+#about {
+	padding-top: 50px;
+}
+
+#experience {
+	
+}
+
+#squish {
+	margin: 0px 15px 0px 15px;
+}
